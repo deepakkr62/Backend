@@ -5,6 +5,9 @@ export const g=9.8;
 
 export const r=10;
 
-const d=20;
+export const d=20;
+
+
+export const div=(a,b)=>a/b;
 
 
