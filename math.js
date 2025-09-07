@@ -10,4 +10,6 @@ export const d=20;
 
 export const div=(a,b)=>a/b;
 
+export const remeder=(a,b)=>a%b;
+
 
